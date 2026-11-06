@@ -1,16 +1,24 @@
-## Hi there 👋
+# Halo, saya FEBRI SEPTIO 👋
 
-<!--
-**FEBRISEPTIO/FEBRISEPTIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lulusan Sistem Informasi | Web Developer | Berpengalaman di Instansi Pemerintah
 
-Here are some ideas to get you started:
+### Tentang Saya
+Saya lulusan Sistem Informasi yang fokus di Web Development. Pernah magang di Diskominfosan Kota Yogyakarta dan mengikuti MSIB Infinite Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyek Saya
+
+**1. E-Learning untuk SMP N 3 Pajangan (Skripsi)**
+Sistem e-learning untuk guru & siswa: login multi-role, upload data
+sekolah, data materi, data tugas, data siswa, data guru, data kelas, data
+mata pelajaran, dan data nilai.
+Dibuat dengan: HTML, CSS, PHP, Laravel, MySQL
+Lihat Kode: https://github.com/FEBRISEPTIO/e-learning-smp-n3-pajangan
+
+**2. Sistem Pendaftaran Magang - Diskominfosan Kota Yogyakarta**
+Sistem untuk mengelola pendaftaran peserta magang: form pendaftaran online, data pendaftar.
+Dibuat dengan: HTML, CSS, PHP, Laravel, MySQL
+Lihat Kode: https://github.com/FEBRISEPTIO/magang-app
+
+### Kontak
+- Email: septiofebri@gmail.com
+- Github: https://github.com/FEBRISEPTIO
